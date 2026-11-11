@@ -1,0 +1,21 @@
+# Archivos compilados
+*.class
+
+# Directorio de salida de Maven
+target/
+
+# Configuraciones del IDE (IntelliJ IDEA, NetBeans, etc.)
+.idea/
+*.iml
+*.iws
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Archivos de log
+*.log
+
+# Archivo especifico a ignorar
+src/main/java/pe/utp/matricula/util/GestorGoogleBook.java
